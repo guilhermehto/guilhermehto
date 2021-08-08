@@ -16,7 +16,7 @@
 
 <h2>My projects</h2>
 <ul>
-<li><a href="https://teixol.com">New portfolio</a></li>
+<li><a href="https://guis.me">New portfolio</a></li>
     <li><a href="https://guilhermehto.dev">Old portfolio</a></li>
     <li><a href="https://guilhermeoliveira.itch.io/cleiton-the-viking">Latest game</a></li>
 </ul>
